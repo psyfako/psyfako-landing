@@ -38,10 +38,14 @@ a{
 }
 
 
-#icon-container-1:hover > #des1, #icon-container-2:hover > #des2,
-#icon-container-3:hover > #des3, #icon-container-4:hover > #des4,
-#icon-container-5:hover > #des5, #icon-container-6:hover > #des6,
-#icon-container-7:hover > #des7, #icon-container-8:hover > #des8,
+#icon-container-1:hover > #des1, 
+#icon-container-2:hover > #des2,
+#icon-container-3:hover > #des3, 
+#icon-container-4:hover > #des4,
+#icon-container-5:hover > #des5, 
+#icon-container-6:hover > #des6,
+#icon-container-7:hover > #des7, 
+#icon-container-8:hover > #des8,
 #icon-container-9:hover > #des9{
 	opacity: 1;
 	transition:0.5s;
@@ -53,6 +57,14 @@ a{
 	left: 50%;
 	bottom: 0px;
 	margin-left: -405px;
+	}
+
+#icons2{
+	position: absolute;
+	width: 810px;
+	left: 50%;
+	bottom: -50px;
+	margin-left: -365px;
 	}
 
 #icons-1-3{
